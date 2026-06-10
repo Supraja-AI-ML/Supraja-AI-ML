@@ -101,4 +101,4 @@ I treat every dataset like a mystery novel. The fun part isn't the answer, it's 
 
 <hr>
 
-<h3 align="center">💬 "Machine learning is not magic. It is patterns, patience, and practice, and every model I build teaches me something new."</h3>
+<h3 align="center">💬 "Learning to make machines learn." 🌱 </h3>
