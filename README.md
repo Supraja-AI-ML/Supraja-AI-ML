@@ -3,7 +3,9 @@
 <h3 align="center">Aspiring AI/ML Engineer | Waterloo, Ontario, Canada 🇨🇦</h3>
 
 <p align="center">
-I'm building a strong foundation in Machine Learning, Python, and PyTorch, and sharing my progress through beginner-friendly, end-to-end ML projects. My goal is to develop real, job-ready skills and step into an entry-level AI/ML Engineer role in the Waterloo/Toronto area.
+I'm building a strong foundation in Machine Learning, Python, and PyTorch, and sharing my progress through beginner-friendly, end-to-end ML projects.  
+
+My goal is to develop real, job-ready skills and step into an entry-level AI/ML Engineer role in the Waterloo/Toronto area.
 </p>
 
 <p align="center">
